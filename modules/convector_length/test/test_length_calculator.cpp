@@ -82,6 +82,14 @@ TEST_F(LengthCalculatorTest, Can_Millimeters_To_Decimeters) {
     Assert("Decimeters: 0.01");
 }
 
+TEST_F(LengthCalculatorTest, Can_Millimeters_To_Centimeters) {
+    vector<string> args = { "1", "Millimeters_To_Centimeters" };
+
+    Act(args);
+
+    Assert("Centimeters: 0.1");
+}
+
 TEST_F(LengthCalculatorTest, Can_Millimeters_To_Meters) {
     vector<string> args = { "1.0", "Millimeters_To_Meters" };
 
