@@ -1,0 +1,22 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/A.V.Balynin/Desktop/PAPKA1/devtools-course-practice/modules/complex-number/application/complex-number.cpp",
+			"labels" : 
+			[
+				"complex-number",
+				"Application"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"complex-number",
+			"Application"
+		],
+		"name" : "app_complex-number"
+	}
+}

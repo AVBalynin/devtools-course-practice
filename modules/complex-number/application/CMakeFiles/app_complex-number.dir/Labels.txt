@@ -1,0 +1,7 @@
+# Target labels
+ complex-number
+ Application
+# Source files and their labels
+C:/Users/A.V.Balynin/Desktop/PAPKA1/devtools-course-practice/modules/complex-number/application/complex-number.cpp
+ complex-number
+ Application

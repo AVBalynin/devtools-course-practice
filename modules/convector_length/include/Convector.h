@@ -1,4 +1,4 @@
-// Copyright 2019 Balynin Alexey
+// Copyright 2019 Kholobko Vladimir
 
 #ifndef MODULES_CONVECTOR_LENGTH_INCLUDE_CONVECTOR_H_
 #define MODULES_CONVECTOR_LENGTH_INCLUDE_CONVECTOR_H_
